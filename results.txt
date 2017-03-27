@@ -1,0 +1,468 @@
+Pour k=2:
+Pour le 0 data:
+
+Pour le data num 0 sa classe est 1
+
+La classe trouvée pour k=2 est 1
+Pour le 1 data:
+
+Pour le data num 1 sa classe est 1
+
+La classe trouvée pour k=2 est 2
+Pour le 2 data:
+
+Pour le data num 2 sa classe est 1
+
+La classe trouvée pour k=2 est 1
+Pour le 3 data:
+
+Pour le data num 3 sa classe est 0
+
+La classe trouvée pour k=2 est 0
+Pour le 4 data:
+
+Pour le data num 4 sa classe est 0
+
+La classe trouvée pour k=2 est 0
+Pour le 5 data:
+
+Pour le data num 5 sa classe est 0
+
+La classe trouvée pour k=2 est 0
+Pour le 6 data:
+
+Pour le data num 6 sa classe est 2
+
+La classe trouvée pour k=2 est 2
+Pour le 7 data:
+
+Pour le data num 7 sa classe est 1
+
+La classe trouvée pour k=2 est 1
+Pour le 8 data:
+
+Pour le data num 8 sa classe est 2
+
+La classe trouvée pour k=2 est 2
+Pour le 9 data:
+
+Pour le data num 9 sa classe est 0
+
+La classe trouvée pour k=2 est 0
+Le pourcentage de réussite est de 90%
+Pour k=3:
+Pour le 0 data:
+
+Pour le data num 0 sa classe est 1
+
+La classe trouvée pour k=3 est 1
+Pour le 1 data:
+
+Pour le data num 1 sa classe est 1
+
+La classe trouvée pour k=3 est 2
+Pour le 2 data:
+
+Pour le data num 2 sa classe est 1
+
+La classe trouvée pour k=3 est 1
+Pour le 3 data:
+
+Pour le data num 3 sa classe est 0
+
+La classe trouvée pour k=3 est 0
+Pour le 4 data:
+
+Pour le data num 4 sa classe est 0
+
+La classe trouvée pour k=3 est 0
+Pour le 5 data:
+
+Pour le data num 5 sa classe est 0
+
+La classe trouvée pour k=3 est 0
+Pour le 6 data:
+
+Pour le data num 6 sa classe est 2
+
+La classe trouvée pour k=3 est 2
+Pour le 7 data:
+
+Pour le data num 7 sa classe est 1
+
+La classe trouvée pour k=3 est 1
+Pour le 8 data:
+
+Pour le data num 8 sa classe est 2
+
+La classe trouvée pour k=3 est 2
+Pour le 9 data:
+
+Pour le data num 9 sa classe est 0
+
+La classe trouvée pour k=3 est 0
+Le pourcentage de réussite est de 90%
+Pour k=4:
+Pour le 0 data:
+
+Pour le data num 0 sa classe est 1
+
+La classe trouvée pour k=4 est 1
+Pour le 1 data:
+
+Pour le data num 1 sa classe est 1
+
+La classe trouvée pour k=4 est 2
+Pour le 2 data:
+
+Pour le data num 2 sa classe est 1
+
+La classe trouvée pour k=4 est 1
+Pour le 3 data:
+
+Pour le data num 3 sa classe est 0
+
+La classe trouvée pour k=4 est 0
+Pour le 4 data:
+
+Pour le data num 4 sa classe est 0
+
+La classe trouvée pour k=4 est 0
+Pour le 5 data:
+
+Pour le data num 5 sa classe est 0
+
+La classe trouvée pour k=4 est 0
+Pour le 6 data:
+
+Pour le data num 6 sa classe est 2
+
+La classe trouvée pour k=4 est 2
+Pour le 7 data:
+
+Pour le data num 7 sa classe est 1
+
+La classe trouvée pour k=4 est 1
+Pour le 8 data:
+
+Pour le data num 8 sa classe est 2
+
+La classe trouvée pour k=4 est 2
+Pour le 9 data:
+
+Pour le data num 9 sa classe est 0
+
+La classe trouvée pour k=4 est 0
+Le pourcentage de réussite est de 90%
+Pour k=5:
+Pour le 0 data:
+
+Pour le data num 0 sa classe est 1
+
+La classe trouvée pour k=5 est 1
+Pour le 1 data:
+
+Pour le data num 1 sa classe est 1
+
+La classe trouvée pour k=5 est 2
+Pour le 2 data:
+
+Pour le data num 2 sa classe est 1
+
+La classe trouvée pour k=5 est 1
+Pour le 3 data:
+
+Pour le data num 3 sa classe est 0
+
+La classe trouvée pour k=5 est 0
+Pour le 4 data:
+
+Pour le data num 4 sa classe est 0
+
+La classe trouvée pour k=5 est 0
+Pour le 5 data:
+
+Pour le data num 5 sa classe est 0
+
+La classe trouvée pour k=5 est 0
+Pour le 6 data:
+
+Pour le data num 6 sa classe est 2
+
+La classe trouvée pour k=5 est 2
+Pour le 7 data:
+
+Pour le data num 7 sa classe est 1
+
+La classe trouvée pour k=5 est 1
+Pour le 8 data:
+
+Pour le data num 8 sa classe est 2
+
+La classe trouvée pour k=5 est 2
+Pour le 9 data:
+
+Pour le data num 9 sa classe est 0
+
+La classe trouvée pour k=5 est 0
+Le pourcentage de réussite est de 90%
+Pour k=6:
+Pour le 0 data:
+
+Pour le data num 0 sa classe est 1
+
+La classe trouvée pour k=6 est 1
+Pour le 1 data:
+
+Pour le data num 1 sa classe est 1
+
+La classe trouvée pour k=6 est 2
+Pour le 2 data:
+
+Pour le data num 2 sa classe est 1
+
+La classe trouvée pour k=6 est 1
+Pour le 3 data:
+
+Pour le data num 3 sa classe est 0
+
+La classe trouvée pour k=6 est 0
+Pour le 4 data:
+
+Pour le data num 4 sa classe est 0
+
+La classe trouvée pour k=6 est 0
+Pour le 5 data:
+
+Pour le data num 5 sa classe est 0
+
+La classe trouvée pour k=6 est 0
+Pour le 6 data:
+
+Pour le data num 6 sa classe est 2
+
+La classe trouvée pour k=6 est 2
+Pour le 7 data:
+
+Pour le data num 7 sa classe est 1
+
+La classe trouvée pour k=6 est 1
+Pour le 8 data:
+
+Pour le data num 8 sa classe est 2
+
+La classe trouvée pour k=6 est 2
+Pour le 9 data:
+
+Pour le data num 9 sa classe est 0
+
+La classe trouvée pour k=6 est 0
+Le pourcentage de réussite est de 90%
+Pour k=7:
+Pour le 0 data:
+
+Pour le data num 0 sa classe est 1
+
+La classe trouvée pour k=7 est 1
+Pour le 1 data:
+
+Pour le data num 1 sa classe est 1
+
+La classe trouvée pour k=7 est 2
+Pour le 2 data:
+
+Pour le data num 2 sa classe est 1
+
+La classe trouvée pour k=7 est 1
+Pour le 3 data:
+
+Pour le data num 3 sa classe est 0
+
+La classe trouvée pour k=7 est 0
+Pour le 4 data:
+
+Pour le data num 4 sa classe est 0
+
+La classe trouvée pour k=7 est 0
+Pour le 5 data:
+
+Pour le data num 5 sa classe est 0
+
+La classe trouvée pour k=7 est 0
+Pour le 6 data:
+
+Pour le data num 6 sa classe est 2
+
+La classe trouvée pour k=7 est 2
+Pour le 7 data:
+
+Pour le data num 7 sa classe est 1
+
+La classe trouvée pour k=7 est 1
+Pour le 8 data:
+
+Pour le data num 8 sa classe est 2
+
+La classe trouvée pour k=7 est 2
+Pour le 9 data:
+
+Pour le data num 9 sa classe est 0
+
+La classe trouvée pour k=7 est 0
+Le pourcentage de réussite est de 90%
+Pour k=8:
+Pour le 0 data:
+
+Pour le data num 0 sa classe est 1
+
+La classe trouvée pour k=8 est 1
+Pour le 1 data:
+
+Pour le data num 1 sa classe est 1
+
+La classe trouvée pour k=8 est 1
+Pour le 2 data:
+
+Pour le data num 2 sa classe est 1
+
+La classe trouvée pour k=8 est 1
+Pour le 3 data:
+
+Pour le data num 3 sa classe est 0
+
+La classe trouvée pour k=8 est 0
+Pour le 4 data:
+
+Pour le data num 4 sa classe est 0
+
+La classe trouvée pour k=8 est 0
+Pour le 5 data:
+
+Pour le data num 5 sa classe est 0
+
+La classe trouvée pour k=8 est 0
+Pour le 6 data:
+
+Pour le data num 6 sa classe est 2
+
+La classe trouvée pour k=8 est 2
+Pour le 7 data:
+
+Pour le data num 7 sa classe est 1
+
+La classe trouvée pour k=8 est 1
+Pour le 8 data:
+
+Pour le data num 8 sa classe est 2
+
+La classe trouvée pour k=8 est 2
+Pour le 9 data:
+
+Pour le data num 9 sa classe est 0
+
+La classe trouvée pour k=8 est 0
+Le pourcentage de réussite est de 100%
+Pour k=9:
+Pour le 0 data:
+
+Pour le data num 0 sa classe est 1
+
+La classe trouvée pour k=9 est 1
+Pour le 1 data:
+
+Pour le data num 1 sa classe est 1
+
+La classe trouvée pour k=9 est 1
+Pour le 2 data:
+
+Pour le data num 2 sa classe est 1
+
+La classe trouvée pour k=9 est 1
+Pour le 3 data:
+
+Pour le data num 3 sa classe est 0
+
+La classe trouvée pour k=9 est 0
+Pour le 4 data:
+
+Pour le data num 4 sa classe est 0
+
+La classe trouvée pour k=9 est 0
+Pour le 5 data:
+
+Pour le data num 5 sa classe est 0
+
+La classe trouvée pour k=9 est 0
+Pour le 6 data:
+
+Pour le data num 6 sa classe est 2
+
+La classe trouvée pour k=9 est 2
+Pour le 7 data:
+
+Pour le data num 7 sa classe est 1
+
+La classe trouvée pour k=9 est 1
+Pour le 8 data:
+
+Pour le data num 8 sa classe est 2
+
+La classe trouvée pour k=9 est 2
+Pour le 9 data:
+
+Pour le data num 9 sa classe est 0
+
+La classe trouvée pour k=9 est 0
+Le pourcentage de réussite est de 100%
+Pour k=10:
+Pour le 0 data:
+
+Pour le data num 0 sa classe est 1
+
+La classe trouvée pour k=10 est 1
+Pour le 1 data:
+
+Pour le data num 1 sa classe est 1
+
+La classe trouvée pour k=10 est 2
+Pour le 2 data:
+
+Pour le data num 2 sa classe est 1
+
+La classe trouvée pour k=10 est 1
+Pour le 3 data:
+
+Pour le data num 3 sa classe est 0
+
+La classe trouvée pour k=10 est 0
+Pour le 4 data:
+
+Pour le data num 4 sa classe est 0
+
+La classe trouvée pour k=10 est 0
+Pour le 5 data:
+
+Pour le data num 5 sa classe est 0
+
+La classe trouvée pour k=10 est 0
+Pour le 6 data:
+
+Pour le data num 6 sa classe est 2
+
+La classe trouvée pour k=10 est 2
+Pour le 7 data:
+
+Pour le data num 7 sa classe est 1
+
+La classe trouvée pour k=10 est 1
+Pour le 8 data:
+
+Pour le data num 8 sa classe est 2
+
+La classe trouvée pour k=10 est 2
+Pour le 9 data:
+
+Pour le data num 9 sa classe est 0
+
+La classe trouvée pour k=10 est 0
+Le pourcentage de réussite est de 90%

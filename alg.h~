@@ -1,0 +1,7 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+typedef struct tab{
+  int tab[140][10];
+  int pos_ldata;
+} Tpos;

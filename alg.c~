@@ -1,0 +1,50 @@
+#include "alg.h"
+void distance
+(FILE* l_data, int * l_class, FILE* t_data,int * t_class){
+  int i,j;
+  float i_val[4];
+  float t_val[4];
+  Tpos res_eu;
+  for(j=0;fscanf(t_data,"%f;%f;%f;%f;",&t_val[0],&t_val[1],&t_val[2],&t_val[3])!=EOF;j++){
+    fseek(l_data,0,SEEK_SET);
+    for(i=0;fscanf(l_data,"%f;%f;%f;%f;",&i_val[0],&i_val[1],&i_val[2],&i_val[3])!=EOF;i++){
+      res_eu.tab[i][j]=sqrt((pow((i_val[0]-t_val[0]),2)+pow((i_val[1]-t_val[1]),2)+pow((i_val[2]-t_val[2]),2)+pow((i_val[3]-t_val[3]),2)));
+      res_eu.ldata=i;
+      printf("val==%f num== %d\n",res_eu[i][j],i);
+    }
+    
+  }
+}
+
+void tri_tab(int ** tab){
+  int i,j;
+  for(i=0;i<10;i++){
+    for(j=0; j<140;j++){
+      
+	    
+int * remplirtab_class(FILE* file,int k){
+  int * tab,i;
+  tab=malloc(sizeof(*tab)*k);
+  for(i=0;fscanf(file,"%d;",&tab[i])!=EOF;i++);
+  return tab;
+}
+	    
+	    
+	
+    //Faux (Doit d'abords parcourir tout l_data pour un t_data
+    // Comparer machin;machin;machin;machin; avec truc;truc;truc;truc machin/truc
+    
+    
+int main(int argc,char* argv[]){
+  int i=0;
+  FILE* i_l_d=fopen("iris_learn_data","r");
+  FILE* i_t_d=fopen("iris_test_data","r");
+  FILE* i_l_l=fopen("iris_learn_label","r");
+  FILE* i_t_l=fopen("iris_test_label","r");
+  int * l_class=NULL; //140
+  int * t_class=NULL; // 10
+  l_class=remplirtab_class(i_l_l,140);
+  t_class=remplirtab_class(i_t_l,10);
+  distance(i_l_d,l_class,i_t_d,t_class);
+}
+  
